@@ -1,6 +1,5 @@
 # movies-app-back
-app de peliculas 
-# Movie Management System
+app de peliculas
 
 ## Descripción
 
